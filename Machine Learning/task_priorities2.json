@@ -1,0 +1,1876 @@
+[
+  { "task": "Design UI", "num_people": 2, "priority": 1 },
+  { "task": "Create Mockup", "num_people": 3, "priority": 1 },
+  { "task": "Create Wireframe", "num_people": 2, "priority": 2 },
+  { "task": "Search for 3D Objects", "num_people": 1, "priority": 3 },
+  { "task": "Backend Tasks", "num_people": 4, "priority": 2 },
+  { "task": "Web Development Tasks", "num_people": 3, "priority": 1 },
+  { "task": "Optimize Database", "num_people": 2, "priority": 2 },
+  { "task": "Write API Documentation", "num_people": 1, "priority": 3 },
+  { "task": "Bug Fixing", "num_people": 2, "priority": 2 },
+  { "task": "Implement User Authentication", "num_people": 3, "priority": 1 },
+  { "task": "Create Landing Page", "num_people": 2, "priority": 1 },
+  { "task": "Develop Mobile App", "num_people": 5, "priority": 1 },
+  { "task": "Write Test Cases", "num_people": 2, "priority": 2 },
+  { "task": "Conduct User Testing", "num_people": 3, "priority": 1 },
+  { "task": "Optimize Frontend Performance", "num_people": 2, "priority": 2 },
+  { "task": "Integrate Payment Gateway", "num_people": 4, "priority": 1 },
+  { "task": "Design Logo", "num_people": 1, "priority": 3 },
+  { "task": "Write User Guides", "num_people": 2, "priority": 3 },
+  { "task": "Create Data Models", "num_people": 3, "priority": 2 },
+  { "task": "Implement Chat Feature", "num_people": 2, "priority": 1 },
+  { "task": "Set Up Continuous Integration", "num_people": 3, "priority": 2 },
+  { "task": "Monitor Server Performance", "num_people": 2, "priority": 2 },
+  { "task": "Generate Weekly Reports", "num_people": 1, "priority": 3 },
+  { "task": "Implement Data Encryption", "num_people": 3, "priority": 1 },
+  { "task": "Design Email Templates", "num_people": 1, "priority": 3 },
+  { "task": "Conduct Code Reviews", "num_people": 2, "priority": 2 },
+  { "task": "Configure Server Security", "num_people": 3, "priority": 2 },
+  { "task": "Translate Content", "num_people": 1, "priority": 3 },
+  { "task": "Manage Project Schedule", "num_people": 2, "priority": 2 },
+  { "task": "Develop AI Module", "num_people": 4, "priority": 1 },
+  { "task": "Create Video Tutorials", "num_people": 1, "priority": 3 },
+  { "task": "Implement Version Control", "num_people": 3, "priority": 2 },
+  { "task": "Perform Security Audits", "num_people": 2, "priority": 1 },
+  { "task": "Write Technical Documentation", "num_people": 2, "priority": 3 },
+  {
+    "task": "Develop Mobile Responsive Design",
+    "num_people": 3,
+    "priority": 1
+  },
+  { "task": "Create Marketing Collateral", "num_people": 1, "priority": 3 },
+  { "task": "Perform Data Analysis", "num_people": 4, "priority": 2 },
+  { "task": "Implement Continuous Deployment", "num_people": 3, "priority": 2 },
+  { "task": "Manage Project Budget", "num_people": 2, "priority": 3 },
+  { "task": "Conduct Customer Surveys", "num_people": 1, "priority": 3 },
+  {
+    "task": "Develop Social Media Integration",
+    "num_people": 3,
+    "priority": 1
+  },
+  { "task": "Create Support Documentation", "num_people": 2, "priority": 3 },
+  { "task": "Optimize SEO", "num_people": 2, "priority": 2 },
+  { "task": "Design Infographics", "num_people": 1, "priority": 3 },
+  {
+    "task": "Implement Multi-language Support",
+    "num_people": 3,
+    "priority": 2
+  },
+  { "task": "Perform Code Refactoring", "num_people": 2, "priority": 1 },
+  { "task": "Create Knowledge Base Articles", "num_people": 1, "priority": 3 },
+  { "task": "Manage User Feedback", "num_people": 2, "priority": 2 },
+  { "task": "Implement Scalability Measures", "num_people": 3, "priority": 1 },
+  { "task": "Create Product Demos", "num_people": 1, "priority": 3 },
+  { "task": "Perform Penetration Testing", "num_people": 2, "priority": 2 },
+  { "task": "Implement Real-time Chat", "num_people": 3, "priority": 1 },
+  { "task": "Write Blog Posts", "num_people": 2, "priority": 3 },
+  { "task": "Develop RESTful APIs", "num_people": 4, "priority": 1 },
+  { "task": "Create Podcast Episodes", "num_people": 1, "priority": 3 },
+  {
+    "task": "Implement Machine Learning Models",
+    "num_people": 3,
+    "priority": 1
+  },
+  { "task": "Write Whitepapers", "num_people": 2, "priority": 3 },
+  { "task": "Create Interactive Dashboards", "num_people": 2, "priority": 2 },
+  { "task": "Perform A/B Testing", "num_people": 3, "priority": 2 },
+  { "task": "Manage Social Media Accounts", "num_people": 2, "priority": 3 },
+  { "task": "Develop E-commerce Platform", "num_people": 4, "priority": 1 },
+  { "task": "Create Online Courses", "num_people": 1, "priority": 3 },
+  {
+    "task": "Implement Virtual Reality Features",
+    "num_people": 3,
+    "priority": 1
+  },
+  { "task": "Write Case Studies", "num_people": 2, "priority": 3 },
+  { "task": "Manage Customer Support Tickets", "num_people": 2, "priority": 2 },
+  { "task": "Implement Chatbot for Website", "num_people": 3, "priority": 1 },
+  { "task": "Create Social Media Graphics", "num_people": 1, "priority": 3 },
+  { "task": "Optimize Mobile App Performance", "num_people": 2, "priority": 2 },
+  { "task": "Develop Cross-platform App", "num_people": 4, "priority": 1 },
+  { "task": "Conduct Market Research", "num_people": 1, "priority": 3 },
+  { "task": "Enhance User Interface", "num_people": 2, "priority": 1 },
+  { "task": "Write Code Documentation", "num_people": 2, "priority": 3 },
+  { "task": "Collaborate with UX Designers", "num_people": 3, "priority": 1 },
+  { "task": "Manage Project Communication", "num_people": 2, "priority": 2 },
+  { "task": "Create Product Roadmap", "num_people": 5, "priority": 1 },
+  { "task": "Perform Regression Testing", "num_people": 2, "priority": 2 },
+  { "task": "Update Website Content", "num_people": 3, "priority": 1 },
+  { "task": "Implement Data Validation", "num_people": 2, "priority": 2 },
+  { "task": "Design User Surveys", "num_people": 4, "priority": 1 },
+  {
+    "task": "Develop Augmented Reality Features",
+    "num_people": 1,
+    "priority": 3
+  },
+  { "task": "Create Customer Support Guides", "num_people": 2, "priority": 3 },
+  { "task": "Optimize Cloud Infrastructure", "num_people": 3, "priority": 2 },
+  { "task": "Implement Single Sign-On", "num_people": 2, "priority": 1 },
+  { "task": "Write Technical Blog Posts", "num_people": 3, "priority": 1 },
+  { "task": "Create User Personas", "num_people": 2, "priority": 3 },
+  { "task": "Manage Product Releases", "num_people": 2, "priority": 2 },
+  {
+    "task": "Develop Voice Recognition System",
+    "num_people": 3,
+    "priority": 1
+  },
+  { "task": "Create In-app Tutorials", "num_people": 1, "priority": 3 },
+  { "task": "Perform Load Testing", "num_people": 2, "priority": 2 },
+  { "task": "Design Email Campaigns", "num_people": 3, "priority": 1 },
+  { "task": "Implement Geolocation Features", "num_people": 2, "priority": 2 },
+  { "task": "Write User Testimonials", "num_people": 1, "priority": 3 },
+  { "task": "Manage Vendor Relationships", "num_people": 2, "priority": 2 },
+  {
+    "task": "Develop Customer Training Materials",
+    "num_people": 3,
+    "priority": 1
+  },
+  { "task": "Create Integration Guides", "num_people": 2, "priority": 3 },
+  { "task": "Optimize Backend Infrastructure", "num_people": 4, "priority": 1 },
+  { "task": "Implement Push Notifications", "num_people": 1, "priority": 3 },
+  { "task": "Write Code Comments", "num_people": 2, "priority": 2 },
+  { "task": "Conduct Performance Reviews", "num_people": 3, "priority": 1 },
+  {
+    "task": "Design Print Marketing Materials",
+    "num_people": 2,
+    "priority": 3
+  },
+  { "task": "Optimize User Onboarding", "num_people": 2, "priority": 2 },
+  { "task": "Create Data Backup Strategy", "num_people": 3, "priority": 1 },
+  { "task": "Perform Usability Testing", "num_people": 1, "priority": 3 },
+  {
+    "task": "Implement Microservices Architecture",
+    "num_people": 3,
+    "priority": 1
+  },
+  { "task": "Write Client Proposals", "num_people": 2, "priority": 3 },
+  { "task": "Manage Team Training Programs", "num_people": 2, "priority": 2 },
+  { "task": "Develop Gamification Features", "num_people": 3, "priority": 1 },
+  { "task": "Create Podcast Scripts", "num_people": 1, "priority": 3 },
+  { "task": "Optimize Data Storage", "num_people": 4, "priority": 1 },
+  { "task": "Implement Email Encryption", "num_people": 2, "priority": 3 },
+  { "task": "Design Merchandise for Events", "num_people": 1, "priority": 3 },
+  { "task": "Conduct User Surveys", "num_people": 2, "priority": 2 },
+  { "task": "Develop Virtual Events Platform", "num_people": 3, "priority": 1 },
+  {
+    "task": "Create Interactive Training Modules",
+    "num_people": 2,
+    "priority": 1
+  },
+  { "task": "Perform Cross-browser Testing", "num_people": 3, "priority": 2 },
+  { "task": "Write Case Documentation", "num_people": 2, "priority": 3 },
+  {
+    "task": "Manage Stakeholder Relationships",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Develop Customer Satisfaction Surveys",
+    "num_people": 1,
+    "priority": 3
+  },
+  { "task": "Implement Voice Search", "num_people": 3, "priority": 1 },
+  {
+    "task": "Create Internal Training Programs",
+    "num_people": 2,
+    "priority": 3
+  },
+  { "task": "Optimize Server Response Time", "num_people": 2, "priority": 2 },
+  {
+    "task": "Design Interactive User Interfaces",
+    "num_people": 2,
+    "priority": 1
+  },
+  {
+    "task": "Implement Cloud-based File Storage",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Engaging Social Media Campaigns",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Optimize Server Resource Allocation",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Develop Custom Analytics Dashboards",
+    "num_people": 3,
+    "priority": 1
+  },
+  { "task": "Write Creative Ad Copy", "num_people": 1, "priority": 3 },
+  {
+    "task": "Manage Internationalization Efforts",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Implement Automated Data Backups",
+    "num_people": 4,
+    "priority": 1
+  },
+  {
+    "task": "Design Eye-catching Infographics",
+    "num_people": 1,
+    "priority": 3
+  },
+  {
+    "task": "Perform Load Testing on Web Applications",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Develop Real-time Collaboration Features",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Attention-grabbing Email Newsletters",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Optimize Mobile App Responsiveness",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Implement Security Incident Response Plan",
+    "num_people": 2,
+    "priority": 2
+  },
+  { "task": "Write Technical Blog Posts", "num_people": 1, "priority": 3 },
+  { "task": "Manage Vendor Relationships", "num_people": 2, "priority": 2 },
+  {
+    "task": "Implement Predictive Customer Support",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Social Media Analytics Reports",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Perform Code Deployment Automation",
+    "num_people": 4,
+    "priority": 1
+  },
+  {
+    "task": "Design User-friendly Documentation",
+    "num_people": 1,
+    "priority": 3
+  },
+  { "task": "Optimize Database Indexing", "num_people": 2, "priority": 2 },
+  {
+    "task": "Implement Cloud-native Applications",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Write Compelling Product Descriptions",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Manage Collaborative Code Repositories",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Implement AI-driven Recommendation Engines",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Social Media Influencer Collaborations",
+    "num_people": 1,
+    "priority": 3
+  },
+  { "task": "Perform Network Security Audits", "num_people": 2, "priority": 2 },
+  {
+    "task": "Develop Interactive Training Simulations",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Write In-depth Technical Documentation",
+    "num_people": 2,
+    "priority": 3
+  },
+  { "task": "Design Branded Merchandise", "num_people": 1, "priority": 3 },
+  { "task": "Optimize Cloud Service Costs", "num_people": 2, "priority": 2 },
+  {
+    "task": "Implement Machine Learning-driven Personalization",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Engaging Social Media Contests",
+    "num_people": 2,
+    "priority": 3
+  },
+  { "task": "Perform Data Governance Audits", "num_people": 2, "priority": 2 },
+  {
+    "task": "Develop Custom E-commerce Solutions",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Write SEO-optimized Website Content",
+    "num_people": 1,
+    "priority": 3
+  },
+  { "task": "Manage User Feedback Systems", "num_people": 2, "priority": 2 },
+  {
+    "task": "Implement Advanced Image Recognition Features",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Animated Explainer Videos",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Perform Cloud Resource Utilization Analysis",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Develop Augmented Reality Shopping Experience",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Write Thought Leadership Articles",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Design Visually Appealing Social Media Profiles",
+    "num_people": 1,
+    "priority": 3
+  },
+  {
+    "task": "Optimize Web Application Performance",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Implement Natural Language Understanding Models",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Engaging Podcast Episodes",
+    "num_people": 2,
+    "priority": 3
+  },
+  { "task": "Perform Compliance Audits", "num_people": 3, "priority": 2 },
+  {
+    "task": "Develop Interactive Virtual Tours",
+    "num_people": 4,
+    "priority": 1
+  },
+  {
+    "task": "Write User-centric Product Reviews",
+    "num_people": 1,
+    "priority": 3
+  },
+  { "task": "Manage Software Release Cycles", "num_people": 2, "priority": 2 },
+  {
+    "task": "Implement Blockchain-based Authentication",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Viral Social Media Challenges",
+    "num_people": 2,
+    "priority": 3
+  },
+  { "task": "Perform Data Quality Assurance", "num_people": 2, "priority": 2 },
+  {
+    "task": "Develop Inclusive Marketing Strategies",
+    "num_people": 3,
+    "priority": 1
+  },
+  { "task": "Write Persuasive Sales Copy", "num_people": 2, "priority": 3 },
+  { "task": "Manage Cross-team Collaboration", "num_people": 2, "priority": 2 },
+  {
+    "task": "Implement Predictive Inventory Management",
+    "num_people": 3,
+    "priority": 1
+  },
+  { "task": "Create Engaging Email Campaigns", "num_people": 1, "priority": 3 },
+  {
+    "task": "Perform Security Patch Management",
+    "num_people": 2,
+    "priority": 2
+  },
+  { "task": "Develop Custom CRM Solutions", "num_people": 3, "priority": 1 },
+  {
+    "task": "Write Impactful Customer Testimonials",
+    "num_people": 2,
+    "priority": 3
+  },
+  { "task": "Design Product Packaging", "num_people": 1, "priority": 3 },
+  { "task": "Optimize Cloud Infrastructure", "num_people": 2, "priority": 2 },
+  { "task": "Implement Human-like Chatbots", "num_people": 3, "priority": 1 },
+  { "task": "Create Engaging Online Quizzes", "num_people": 2, "priority": 3 },
+  { "task": "Perform User Behavior Analysis", "num_people": 2, "priority": 2 },
+  { "task": "Develop AI-driven Video Editing", "num_people": 3, "priority": 1 },
+  { "task": "Write Authentic Brand Stories", "num_people": 2, "priority": 3 },
+  { "task": "Manage Product Lifecycle", "num_people": 2, "priority": 2 },
+  {
+    "task": "Implement Cloud-based Collaborative Editing",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Engaging Social Media Polls",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Perform Disaster Recovery Planning",
+    "num_people": 2,
+    "priority": 2
+  },
+  { "task": "Develop Custom ERP Solutions", "num_people": 3, "priority": 1 },
+  {
+    "task": "Write Engaging Video Game Narratives",
+    "num_people": 1,
+    "priority": 3
+  },
+  {
+    "task": "Design User-centered Mobile Experiences",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Optimize Cloud-based Collaboration Tools",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Implement Sustainable Technology Practices",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Create Immersive Virtual Reality Experiences",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Perform Continuous Integration/Continuous Deployment",
+    "num_people": 4,
+    "priority": 2
+  },
+  {
+    "task": "Write Emotional Brand Narratives",
+    "num_people": 1,
+    "priority": 3
+  },
+  {
+    "task": "Manage Cross-channel Marketing Campaigns",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Implement AI-driven Image Recognition",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Interactive Augmented Reality Manuals",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Perform IT Security Risk Assessments",
+    "num_people": 2,
+    "priority": 2
+  },
+  { "task": "Develop Custom LMS Solutions", "num_people": 3, "priority": 1 },
+  {
+    "task": "Write Engaging Social Media Captions",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Manage Cross-platform User Experiences",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Implement Predictive Maintenance for Equipment",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Attention-grabbing Social Media Ad Campaigns",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Perform Vulnerability Assessments",
+    "num_people": 2,
+    "priority": 2
+  },
+  { "task": "Develop Custom POS Solutions", "num_people": 3, "priority": 1 },
+  {
+    "task": "Write Creative Social Media Teasers",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Manage Cross-team Agile Development Processes",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Implement AI-driven Customer Support Chatbots",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Engaging Social Media Stories",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Perform Security Awareness Training",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Develop Custom HR Management Systems",
+    "num_people": 3,
+    "priority": 1
+  },
+  { "task": "Write SEO-friendly Blog Titles", "num_people": 1, "priority": 3 },
+  {
+    "task": "Manage Cross-functional Product Development",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Implement AI-driven Content Recommendations",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Engaging Social Media Live Sessions",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Perform Cloud Infrastructure Cost Analysis",
+    "num_people": 2,
+    "priority": 2
+  },
+  { "task": "Develop Custom Survey Platforms", "num_people": 3, "priority": 1 },
+  {
+    "task": "Write Compelling Email Subject Lines",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Manage Cross-team Collaboration Tools",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Implement AI-driven Fraud Detection",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Engaging Social Media Challenges",
+    "num_people": 2,
+    "priority": 3
+  },
+  { "task": "Perform Data Governance Audits", "num_people": 2, "priority": 2 },
+  {
+    "task": "Develop Custom E-commerce Solutions",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Write SEO-optimized Website Content",
+    "num_people": 1,
+    "priority": 3
+  },
+  { "task": "Manage User Feedback Systems", "num_people": 2, "priority": 2 },
+  {
+    "task": "Implement Advanced Image Recognition Features",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Animated Explainer Videos",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Perform Cloud Resource Utilization Analysis",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Develop Augmented Reality Shopping Experience",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Write Thought Leadership Articles",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Design Visually Appealing Social Media Profiles",
+    "num_people": 1,
+    "priority": 3
+  },
+  {
+    "task": "Optimize Web Application Performance",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Implement Natural Language Understanding Models",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Engaging Podcast Episodes",
+    "num_people": 2,
+    "priority": 3
+  },
+  { "task": "Perform Compliance Audits", "num_people": 3, "priority": 2 },
+  {
+    "task": "Develop Interactive Virtual Tours",
+    "num_people": 4,
+    "priority": 1
+  },
+  {
+    "task": "Write User-centric Product Reviews",
+    "num_people": 1,
+    "priority": 3
+  },
+  { "task": "Manage Software Release Cycles", "num_people": 2, "priority": 2 },
+  {
+    "task": "Implement Blockchain-based Authentication",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Viral Social Media Challenges",
+    "num_people": 2,
+    "priority": 3
+  },
+  { "task": "Perform Data Quality Assurance", "num_people": 2, "priority": 2 },
+  {
+    "task": "Develop Inclusive Marketing Strategies",
+    "num_people": 3,
+    "priority": 1
+  },
+  { "task": "Write Persuasive Sales Copy", "num_people": 2, "priority": 3 },
+  { "task": "Manage Cross-team Collaboration", "num_people": 2, "priority": 2 },
+  {
+    "task": "Implement Predictive Inventory Management",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Attention-grabbing Social Media Ad Campaigns",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Perform Vulnerability Assessments",
+    "num_people": 2,
+    "priority": 2
+  },
+  { "task": "Develop Custom POS Solutions", "num_people": 3, "priority": 1 },
+  {
+    "task": "Write Creative Social Media Teasers",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Manage Cross-team Agile Development Processes",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Implement AI-driven Customer Support Chatbots",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Engaging Social Media Stories",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Perform Security Awareness Training",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Develop Custom HR Management Systems",
+    "num_people": 3,
+    "priority": 1
+  },
+  { "task": "Write SEO-friendly Blog Titles", "num_people": 1, "priority": 3 },
+  {
+    "task": "Manage Cross-functional Product Development",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Implement AI-driven Content Recommendations",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Engaging Social Media Live Sessions",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Perform Cloud Infrastructure Cost Analysis",
+    "num_people": 2,
+    "priority": 2
+  },
+  { "task": "Develop Custom Survey Platforms", "num_people": 3, "priority": 1 },
+  {
+    "task": "Write Compelling Email Subject Lines",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Manage Cross-team Collaboration Tools",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Implement AI-driven Fraud Detection",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Engaging Social Media Challenges",
+    "num_people": 2,
+    "priority": 3
+  },
+  { "task": "Perform Data Governance Audits", "num_people": 2, "priority": 2 },
+  {
+    "task": "Develop Custom E-commerce Solutions",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Write SEO-optimized Website Content",
+    "num_people": 1,
+    "priority": 3
+  },
+  { "task": "Manage User Feedback Systems", "num_people": 2, "priority": 2 },
+  {
+    "task": "Implement Advanced Image Recognition Features",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Animated Explainer Videos",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Perform Cloud Resource Utilization Analysis",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Develop Augmented Reality Shopping Experience",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Write Thought Leadership Articles",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Design Visually Appealing Social Media Profiles",
+    "num_people": 1,
+    "priority": 3
+  },
+  {
+    "task": "Optimize Web Application Performance",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Implement Natural Language Understanding Models",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Engaging Podcast Episodes",
+    "num_people": 2,
+    "priority": 3
+  },
+  { "task": "Perform Compliance Audits", "num_people": 3, "priority": 2 },
+  {
+    "task": "Develop Interactive Virtual Tours",
+    "num_people": 4,
+    "priority": 1
+  },
+  {
+    "task": "Write User-centric Product Reviews",
+    "num_people": 1,
+    "priority": 3
+  },
+  { "task": "Manage Software Release Cycles", "num_people": 2, "priority": 2 },
+  {
+    "task": "Implement Blockchain-based Authentication",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Viral Social Media Challenges",
+    "num_people": 2,
+    "priority": 3
+  },
+  { "task": "Perform Data Quality Assurance", "num_people": 2, "priority": 2 },
+  {
+    "task": "Develop Inclusive Marketing Strategies",
+    "num_people": 3,
+    "priority": 1
+  },
+  { "task": "Write Persuasive Sales Copy", "num_people": 2, "priority": 3 },
+  { "task": "Manage Cross-team Collaboration", "num_people": 2, "priority": 2 },
+  {
+    "task": "Implement Predictive Inventory Management",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Attention-grabbing Social Media Ad Campaigns",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Perform Vulnerability Assessments",
+    "num_people": 2,
+    "priority": 2
+  },
+  { "task": "Develop Custom POS Solutions", "num_people": 3, "priority": 1 },
+  {
+    "task": "Write Creative Social Media Teasers",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Manage Cross-team Agile Development Processes",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Implement AI-driven Customer Support Chatbots",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Engaging Social Media Stories",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Perform Security Awareness Training",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Develop Custom HR Management Systems",
+    "num_people": 3,
+    "priority": 1
+  },
+  { "task": "Write SEO-friendly Blog Titles", "num_people": 1, "priority": 3 },
+  {
+    "task": "Manage Cross-functional Product Development",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Implement AI-driven Content Recommendations",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Engaging Social Media Live Sessions",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Perform Cloud Infrastructure Cost Analysis",
+    "num_people": 2,
+    "priority": 2
+  },
+  { "task": "Develop Custom Survey Platforms", "num_people": 3, "priority": 1 },
+  {
+    "task": "Write Compelling Email Subject Lines",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Manage Cross-team Collaboration Tools",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Implement AI-driven Fraud Detection",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Engaging Social Media Challenges",
+    "num_people": 2,
+    "priority": 3
+  },
+  { "task": "Perform Data Governance Audits", "num_people": 2, "priority": 2 },
+  {
+    "task": "Develop Custom E-commerce Solutions",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Write SEO-optimized Website Content",
+    "num_people": 1,
+    "priority": 3
+  },
+  { "task": "Manage User Feedback Systems", "num_people": 2, "priority": 2 },
+  {
+    "task": "Implement Advanced Image Recognition Features",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Animated Explainer Videos",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Perform Cloud Resource Utilization Analysis",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Develop Augmented Reality Shopping Experience",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Write Thought Leadership Articles",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Design Visually Appealing Social Media Profiles",
+    "num_people": 1,
+    "priority": 3
+  },
+  {
+    "task": "Optimize Web Application Performance",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Implement Natural Language Understanding Models",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Engaging Podcast Episodes",
+    "num_people": 2,
+    "priority": 3
+  },
+  { "task": "Perform Compliance Audits", "num_people": 3, "priority": 2 },
+  {
+    "task": "Develop Interactive Virtual Tours",
+    "num_people": 4,
+    "priority": 1
+  },
+  {
+    "task": "Write User-centric Product Reviews",
+    "num_people": 1,
+    "priority": 3
+  },
+  { "task": "Manage Software Release Cycles", "num_people": 2, "priority": 2 },
+  {
+    "task": "Implement Blockchain-based Authentication",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Viral Social Media Challenges",
+    "num_people": 2,
+    "priority": 3
+  },
+  { "task": "Perform Data Quality Assurance", "num_people": 2, "priority": 2 },
+  {
+    "task": "Develop Inclusive Marketing Strategies",
+    "num_people": 3,
+    "priority": 1
+  },
+  { "task": "Write Persuasive Sales Copy", "num_people": 2, "priority": 3 },
+  { "task": "Manage Cross-team Collaboration", "num_people": 2, "priority": 2 },
+  {
+    "task": "Implement Predictive Inventory Management",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Attention-grabbing Social Media Ad Campaigns",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Perform Vulnerability Assessments",
+    "num_people": 2,
+    "priority": 2
+  },
+  { "task": "Develop Custom POS Solutions", "num_people": 3, "priority": 1 },
+  {
+    "task": "Write Creative Social Media Teasers",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Manage Cross-team Agile Development Processes",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Implement AI-driven Customer Support Chatbots",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Engaging Social Media Stories",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Perform Security Awareness Training",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Develop Custom HR Management Systems",
+    "num_people": 3,
+    "priority": 1
+  },
+  { "task": "Write SEO-friendly Blog Titles", "num_people": 1, "priority": 3 },
+  {
+    "task": "Manage Cross-functional Product Development",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Implement AI-driven Content Recommendations",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Engaging Social Media Live Sessions",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Perform Cloud Infrastructure Cost Analysis",
+    "num_people": 2,
+    "priority": 2
+  },
+  { "task": "Develop Custom Survey Platforms", "num_people": 3, "priority": 1 },
+  {
+    "task": "Write Compelling Email Subject Lines",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Manage Cross-team Collaboration Tools",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Implement AI-driven Fraud Detection",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Engaging Social Media Challenges",
+    "num_people": 2,
+    "priority": 3
+  },
+  { "task": "Perform Data Governance Audits", "num_people": 2, "priority": 2 },
+  {
+    "task": "Develop Custom E-commerce Solutions",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Write SEO-optimized Website Content",
+    "num_people": 1,
+    "priority": 3
+  },
+  { "task": "Manage User Feedback Systems", "num_people": 2, "priority": 2 },
+  {
+    "task": "Implement Advanced Image Recognition Features",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Animated Explainer Videos",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Perform Cloud Resource Utilization Analysis",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Develop Augmented Reality Shopping Experience",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Write Thought Leadership Articles",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Design Visually Appealing Social Media Profiles",
+    "num_people": 1,
+    "priority": 3
+  },
+  {
+    "task": "Optimize Web Application Performance",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Implement Natural Language Understanding Models",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Engaging Podcast Episodes",
+    "num_people": 2,
+    "priority": 3
+  },
+  { "task": "Perform Compliance Audits", "num_people": 3, "priority": 2 },
+  {
+    "task": "Develop Interactive Virtual Tours",
+    "num_people": 4,
+    "priority": 1
+  },
+  {
+    "task": "Write User-centric Product Reviews",
+    "num_people": 1,
+    "priority": 3
+  },
+  { "task": "Manage Software Release Cycles", "num_people": 2, "priority": 2 },
+  {
+    "task": "Implement Blockchain-based Authentication",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Viral Social Media Challenges",
+    "num_people": 2,
+    "priority": 3
+  },
+  { "task": "Perform Data Quality Assurance", "num_people": 2, "priority": 2 },
+  {
+    "task": "Develop Inclusive Marketing Strategies",
+    "num_people": 3,
+    "priority": 1
+  },
+  { "task": "Write Persuasive Sales Copy", "num_people": 2, "priority": 3 },
+  { "task": "Manage Cross-team Collaboration", "num_people": 2, "priority": 2 },
+  {
+    "task": "Implement Predictive Inventory Management",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Attention-grabbing Social Media Ad Campaigns",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Perform Vulnerability Assessments",
+    "num_people": 2,
+    "priority": 2
+  },
+  { "task": "Develop Custom POS Solutions", "num_people": 3, "priority": 1 },
+  {
+    "task": "Write Creative Social Media Teasers",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Manage Cross-team Agile Development Processes",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Implement AI-driven Customer Support Chatbots",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Engaging Social Media Stories",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Perform Security Awareness Training",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Develop Custom HR Management Systems",
+    "num_people": 3,
+    "priority": 1
+  },
+  { "task": "Write SEO-friendly Blog Titles", "num_people": 1, "priority": 3 },
+  {
+    "task": "Manage Cross-functional Product Development",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Implement AI-driven Content Recommendations",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Engaging Social Media Live Sessions",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Perform Cloud Infrastructure Cost Analysis",
+    "num_people": 2,
+    "priority": 2
+  },
+  { "task": "Develop Custom Survey Platforms", "num_people": 3, "priority": 1 },
+  {
+    "task": "Write Compelling Email Subject Lines",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Manage Cross-team Collaboration Tools",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Implement AI-driven Fraud Detection",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Engaging Social Media Challenges",
+    "num_people": 2,
+    "priority": 3
+  },
+  { "task": "Perform Data Governance Audits", "num_people": 2, "priority": 2 },
+  {
+    "task": "Develop Custom E-commerce Solutions",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Write SEO-optimized Website Content",
+    "num_people": 1,
+    "priority": 3
+  },
+  { "task": "Manage User Feedback Systems", "num_people": 2, "priority": 2 },
+  {
+    "task": "Implement Advanced Image Recognition Features",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Animated Explainer Videos",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Perform Cloud Resource Utilization Analysis",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Develop Augmented Reality Shopping Experience",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Write Thought Leadership Articles",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Design Visually Appealing Social Media Profiles",
+    "num_people": 1,
+    "priority": 3
+  },
+  {
+    "task": "Optimize Web Application Performance",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Implement Natural Language Understanding Models",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Engaging Podcast Episodes",
+    "num_people": 2,
+    "priority": 3
+  },
+  { "task": "Perform Compliance Audits", "num_people": 3, "priority": 2 },
+  {
+    "task": "Develop Interactive Virtual Tours",
+    "num_people": 4,
+    "priority": 1
+  },
+  {
+    "task": "Write User-centric Product Reviews",
+    "num_people": 1,
+    "priority": 3
+  },
+  { "task": "Manage Software Release Cycles", "num_people": 2, "priority": 2 },
+  {
+    "task": "Implement Blockchain-based Authentication",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Viral Social Media Challenges",
+    "num_people": 2,
+    "priority": 3
+  },
+  { "task": "Perform Data Quality Assurance", "num_people": 2, "priority": 2 },
+  {
+    "task": "Develop Inclusive Marketing Strategies",
+    "num_people": 3,
+    "priority": 1
+  },
+  { "task": "Write Persuasive Sales Copy", "num_people": 2, "priority": 3 },
+  { "task": "Manage Cross-team Collaboration", "num_people": 2, "priority": 2 },
+  {
+    "task": "Implement Predictive Inventory Management",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Attention-grabbing Social Media Ad Campaigns",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Perform Vulnerability Assessments",
+    "num_people": 2,
+    "priority": 2
+  },
+  { "task": "Develop Custom POS Solutions", "num_people": 3, "priority": 1 },
+  {
+    "task": "Write Creative Social Media Teasers",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Manage Cross-team Agile Development Processes",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Implement AI-driven Customer Support Chatbots",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Engaging Social Media Stories",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Perform Security Awareness Training",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Develop Custom HR Management Systems",
+    "num_people": 3,
+    "priority": 1
+  },
+  { "task": "Write SEO-friendly Blog Titles", "num_people": 1, "priority": 3 },
+  {
+    "task": "Manage Cross-functional Product Development",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Implement AI-driven Content Recommendations",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Engaging Social Media Live Sessions",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Perform Cloud Infrastructure Cost Analysis",
+    "num_people": 2,
+    "priority": 2
+  },
+  { "task": "Develop Custom Survey Platforms", "num_people": 3, "priority": 1 },
+  {
+    "task": "Write Compelling Email Subject Lines",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Manage Cross-team Collaboration Tools",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Implement AI-driven Fraud Detection",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Engaging Social Media Challenges",
+    "num_people": 2,
+    "priority": 3
+  },
+  { "task": "Perform Data Governance Audits", "num_people": 2, "priority": 2 },
+  {
+    "task": "Develop Custom E-commerce Solutions",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Write SEO-optimized Website Content",
+    "num_people": 1,
+    "priority": 3
+  },
+  { "task": "Manage User Feedback Systems", "num_people": 2, "priority": 2 },
+  {
+    "task": "Implement Advanced Image Recognition Features",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Animated Explainer Videos",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Perform Cloud Resource Utilization Analysis",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Develop Augmented Reality Shopping Experience",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Write Thought Leadership Articles",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Design Visually Appealing Social Media Profiles",
+    "num_people": 1,
+    "priority": 3
+  },
+  {
+    "task": "Optimize Web Application Performance",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Implement Natural Language Understanding Models",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Engaging Podcast Episodes",
+    "num_people": 2,
+    "priority": 3
+  },
+  { "task": "Perform Compliance Audits", "num_people": 3, "priority": 2 },
+  {
+    "task": "Develop Interactive Virtual Tours",
+    "num_people": 4,
+    "priority": 1
+  },
+  {
+    "task": "Write User-centric Product Reviews",
+    "num_people": 1,
+    "priority": 3
+  },
+  { "task": "Manage Software Release Cycles", "num_people": 2, "priority": 2 },
+  {
+    "task": "Implement Blockchain-based Authentication",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Viral Social Media Challenges",
+    "num_people": 2,
+    "priority": 3
+  },
+  { "task": "Perform Data Quality Assurance", "num_people": 2, "priority": 2 },
+  {
+    "task": "Develop Inclusive Marketing Strategies",
+    "num_people": 3,
+    "priority": 1
+  },
+  { "task": "Write Persuasive Sales Copy", "num_people": 2, "priority": 3 },
+  { "task": "Manage Cross-team Collaboration", "num_people": 2, "priority": 2 },
+  {
+    "task": "Implement Predictive Inventory Management",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Attention-grabbing Social Media Ad Campaigns",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Perform Vulnerability Assessments",
+    "num_people": 2,
+    "priority": 2
+  },
+  { "task": "Develop Custom POS Solutions", "num_people": 3, "priority": 1 },
+  {
+    "task": "Write Creative Social Media Teasers",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Manage Cross-team Agile Development Processes",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Implement AI-driven Customer Support Chatbots",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Engaging Social Media Stories",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Perform Security Awareness Training",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Develop Custom HR Management Systems",
+    "num_people": 3,
+    "priority": 1
+  },
+  { "task": "Write SEO-friendly Blog Titles", "num_people": 1, "priority": 3 },
+  {
+    "task": "Manage Cross-functional Product Development",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Implement AI-driven Content Recommendations",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Engaging Social Media Live Sessions",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Perform Cloud Infrastructure Cost Analysis",
+    "num_people": 2,
+    "priority": 2
+  },
+  { "task": "Develop Custom Survey Platforms", "num_people": 3, "priority": 1 },
+  {
+    "task": "Write Compelling Email Subject Lines",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Manage Cross-team Collaboration Tools",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Implement AI-driven Fraud Detection",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Engaging Social Media Challenges",
+    "num_people": 2,
+    "priority": 3
+  },
+  { "task": "Perform Data Governance Audits", "num_people": 2, "priority": 2 },
+  {
+    "task": "Develop Custom E-commerce Solutions",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Write SEO-optimized Website Content",
+    "num_people": 1,
+    "priority": 3
+  },
+  { "task": "Manage User Feedback Systems", "num_people": 2, "priority": 2 },
+  {
+    "task": "Implement Advanced Image Recognition Features",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Animated Explainer Videos",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Perform Cloud Resource Utilization Analysis",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Develop Augmented Reality Shopping Experience",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Write Thought Leadership Articles",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Design Visually Appealing Social Media Profiles",
+    "num_people": 1,
+    "priority": 3
+  },
+  {
+    "task": "Optimize Web Application Performance",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Implement Natural Language Understanding Models",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Engaging Podcast Episodes",
+    "num_people": 2,
+    "priority": 3
+  },
+  { "task": "Perform Compliance Audits", "num_people": 3, "priority": 2 },
+  {
+    "task": "Develop Interactive Virtual Tours",
+    "num_people": 4,
+    "priority": 1
+  },
+  {
+    "task": "Write User-centric Product Reviews",
+    "num_people": 1,
+    "priority": 3
+  },
+  { "task": "Manage Software Release Cycles", "num_people": 2, "priority": 2 },
+  {
+    "task": "Implement Blockchain-based Authentication",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Viral Social Media Challenges",
+    "num_people": 2,
+    "priority": 3
+  },
+  { "task": "Perform Data Quality Assurance", "num_people": 2, "priority": 2 },
+  {
+    "task": "Develop Inclusive Marketing Strategies",
+    "num_people": 3,
+    "priority": 1
+  },
+  { "task": "Write Persuasive Sales Copy", "num_people": 2, "priority": 3 },
+  { "task": "Manage Cross-team Collaboration", "num_people": 2, "priority": 2 },
+  {
+    "task": "Implement Predictive Inventory Management",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Attention-grabbing Social Media Ad Campaigns",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Perform Vulnerability Assessments",
+    "num_people": 2,
+    "priority": 2
+  },
+  { "task": "Develop Custom POS Solutions", "num_people": 3, "priority": 1 },
+  {
+    "task": "Write Creative Social Media Teasers",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Manage Cross-team Agile Development Processes",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Implement AI-driven Customer Support Chatbots",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Engaging Social Media Stories",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Perform Security Awareness Training",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Develop Custom HR Management Systems",
+    "num_people": 3,
+    "priority": 1
+  },
+  { "task": "Write SEO-friendly Blog Titles", "num_people": 1, "priority": 3 },
+  {
+    "task": "Manage Cross-functional Product Development",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Implement AI-driven Content Recommendations",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Engaging Social Media Live Sessions",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Perform Cloud Infrastructure Cost Analysis",
+    "num_people": 2,
+    "priority": 2
+  },
+  { "task": "Develop Custom Survey Platforms", "num_people": 3, "priority": 1 },
+  {
+    "task": "Write Compelling Email Subject Lines",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Manage Cross-team Collaboration Tools",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Implement AI-driven Fraud Detection",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Engaging Social Media Challenges",
+    "num_people": 2,
+    "priority": 3
+  },
+  { "task": "Perform Data Governance Audits", "num_people": 2, "priority": 2 },
+  {
+    "task": "Develop Custom E-commerce Solutions",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Write SEO-optimized Website Content",
+    "num_people": 1,
+    "priority": 3
+  },
+  { "task": "Manage User Feedback Systems", "num_people": 2, "priority": 2 },
+  {
+    "task": "Implement Advanced Image Recognition Features",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Create Animated Explainer Videos",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Perform Cloud Resource Utilization Analysis",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Develop Augmented Reality Shopping Experience",
+    "num_people": 3,
+    "priority": 1
+  },
+  {
+    "task": "Write Thought Leadership Articles",
+    "num_people": 2,
+    "priority": 3
+  },
+  {
+    "task": "Design Visually Appealing Social Media Profiles",
+    "num_people": 1,
+    "priority": 3
+  },
+  {
+    "task": "Optimize Web Application Performance",
+    "num_people": 2,
+    "priority": 2
+  },
+  {
+    "task": "Implement Natural Language Understanding Models",
+    "num_people": 3,
+    "priority": 1
+  },
+  { "task": "Create Engaging Podcast Episodes", "num_people": 2, "priority": 3 }
+]

@@ -1,0 +1,162 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How's it going",
+        "Is anyone there?",
+        "Hello",
+        "Good day",
+        "What's up",
+        "Greetings"
+      ],
+      "responses": [
+        "Hello!",
+        "Good to see you again!",
+        "Hi there, how can I assist you today?",
+        "Hello! I'm your Project Management Assistant. How may I help you?",
+        "Hey there!"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "create_project",
+      "patterns": [
+        "Create a new project",
+        "Start a project",
+        "Initiate a project",
+        "New project"
+      ],
+      "responses": [
+        "Sure, I can help you with that! Please provide me with the details of the new project."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "project_status",
+      "patterns": [
+        "Check project status",
+        "Project progress",
+        "How are my projects doing?",
+        "Project updates"
+      ],
+      "responses": [
+        "I can provide updates on your projects. Please specify the project you want to inquire about."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": "task_assignment",
+      "patterns": [
+        "Assign a task",
+        "Task delegation",
+        "Allocate a task",
+        "Assign work"
+      ],
+      "responses": [
+        "Certainly! To whom would you like to assign the task, and what is the task description and deadline?"
+      ]
+    },
+    {
+      "tag": "task_completion",
+      "patterns": [
+        "Mark task as complete",
+        "Task done",
+        "Finish task",
+        "Complete assignment"
+      ],
+      "responses": [
+        "Great job! Could you provide the details of the completed task for record-keeping?"
+      ]
+    },
+    {
+      "tag": "deadline_extension",
+      "patterns": [
+        "Extend deadline",
+        "Deadline extension",
+        "Need more time",
+        "Extend task timeline"
+      ],
+      "responses": [
+        "Sure, I can assist with extending the deadline. Please specify the task and the new deadline."
+      ]
+    },
+    {
+      "tag": "project_details",
+      "patterns": [
+        "Project details",
+        "Tell me about a project",
+        "Information on project",
+        "Details of a project"
+      ],
+      "responses": [
+        "Sure, I can provide details about the specified project. Please provide the name of the project."
+      ],
+      "context_set": "project_details"
+    },
+    {
+      "tag": "capabilities",
+      "patterns": [
+        "What can you do?",
+        "Capabilities",
+        "Tell me your features",
+        "What services do you offer?"
+      ],
+      "responses": [
+        "I can assist you with the following:\n- Creating and managing projects\n- Checking project statuses\n- Assigning and completing tasks\n- Extending deadlines\n- Providing details about specific projects\n- Offering general guidance on project management."
+      ]
+    },
+    {
+      "tag": "unknown",
+      "patterns": [
+        "I don't understand",
+        "Sorry, what?",
+        "Can you repeat that?",
+        "Not sure what you mean"
+      ],
+      "responses": [
+        "I apologize if I couldn't understand your request. Please feel free to ask in a different way or try one of the listed capabilities."
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "See you later",
+        "Goodbye",
+        "I'm leaving",
+        "Have a great day",
+        "Signing off",
+        "Until next time"
+      ],
+      "responses": ["Sad to see you go :(", "Talk to you later", "Goodbye!"]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Thank you",
+        "Thanks",
+        "Appreciate your help",
+        "Thanks a lot"
+      ],
+      "responses": [
+        "You're welcome!",
+        "Glad I could assist you!",
+        "Anytime! If you have more questions, feel free to ask."
+      ]
+    },
+    {
+      "tag": "help",
+      "patterns": [
+        "Help",
+        "I need assistance",
+        "Can you guide me?",
+        "Help me understand"
+      ],
+      "responses": [
+        "Of course! I'm here to help. What do you need assistance with in your project management?"
+      ]
+    }
+  ]
+}
